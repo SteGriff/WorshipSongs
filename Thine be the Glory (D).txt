@@ -1,4 +1,4 @@
-THINE BE THE GLORY - HANDEL
+THINE BE THE GLORY (D)
 
 D					A
 Thine be the glory, risen, conqu’ring Son;
@@ -9,13 +9,18 @@ Angels in bright raiment rolled the stone a-way,
 Bm				E			  F#m       E    A
 Kept the folded grave clothes where Thy body lay.
 
-Chorus:
-Thine be the glory, risen conqu’ring Son,
-Endless is the vict’ry, Thou o’er death hast won.
+	D					A
+	Thine be the glory, risen, conqu’ring Son;
+	D				G   D	G		  A			 D		D/C#
+	Endless is the vic-try, Thou o’er death hast won;
 
+D					A
 Lo! Jesus meets us, risen from the tomb;
+D		    G      D   G		A	     D      D/C#
 Lovingly He greets us, scatters fear and gloom;
+Bm				    F#m	      G                A		
 Let the church with gladness, hymns of triumph sing;
+Bm				 E       F#m        E        A
 For her Lord now liveth, death hath lost its sting.
 
 [Chorus]
