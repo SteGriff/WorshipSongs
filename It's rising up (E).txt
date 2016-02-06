@@ -23,10 +23,10 @@ Oh, let the cry to nations ring,
      A                B
 that all may come and all may sing:
 
- E    A      E
-"Holy is the Lord."
- C#m7 A      B
-"Holy is the Lord."
+	 E    A      E
+	"Holy is the Lord."
+	 C#m7 A      B
+	"Holy is the Lord."
 
     E
 And we have heard the Lion's roar,
@@ -42,7 +42,7 @@ Oh, let the cry to nations ring,
      A                B
 that all may come and all may sing:
 
- E     A    E
-"Jesus is alive!"
- C#m7  A    B
-"Jesus is alive!"
+	 E     A    E
+	"Jesus is alive!"
+	 C#m7  A    B
+	"Jesus is alive!"
