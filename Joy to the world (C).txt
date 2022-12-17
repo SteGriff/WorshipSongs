@@ -1,40 +1,47 @@
 JOY TO THE WORLD (C)
 
-C                 Dm  C    G  C
-Joy to the world, the Lord is come!
-    F        G        C
+C                     F    G   C
+Joy to the world, the Lord has come!
+    F        G        Am
 Let earth receive her King;
-        F  C             F   C
+    C   F  C             F   C
 Let eve-ry heart prepare Him room,
     C
 And Heaven and nature sing,
     G
 And Heaven and nature sing,
-    C           C       Dm  C  G    C
+    Am          F           F  G    C
 And Heaven, and Heaven, and na-ture sing.
 
-  C                 Dm  C   G   C
-  Joy to the world, the Sav-ior reigns!
-      F         G       C
-  Let men their songs employ;
-        F      C                        F   C
-  While fields and floods, rocks, hills and plains
-    C
-  Repeat the sounding joy,
-    G
-  Repeat the sounding joy,
-    C             Dm  C    G    C
-  Repeat, repeat, the soun-ding joy.
-  
-C                  Dm   C     G   C
+    C                     F    G   C
+    Joy to the world, the Sav-ior reigns!
+        F         G       Am
+    Let men their songs employ;
+          C      F   C                    F   C
+    While fields and floods, rocks, hills and plains
+      C
+    Repeat the sounding joy,
+      G
+    Repeat the sounding joy,
+      Am      F         F    G    C
+    Repeat, repeat, the soun-ding joy.
+      
+C                       F     G   C
 He rules the world with truth and grace,
-    F         G       C
+    F         G       Am
 And makes the nations prove
-    F    C                F    C
-The glor-ies of His right-eous-ness,
+    C   F    C            F    C
+The glo-ries of His right-eous-ness,
     C
 And wonders of His love,
     G
 And wonders of His love,
-    C            Dm    C  G   C   
+    Am       F         F  G   C
 And wonders, won-ders, of His love.
+
+		C
+	The wonders of His love,
+		G
+	The wonders of His love,
+		Am       F         F  G   C
+	The wonders, won-ders, of His love.
