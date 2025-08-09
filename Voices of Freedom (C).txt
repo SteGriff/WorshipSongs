@@ -1,7 +1,5 @@
 VOICES OF FREEDOM (C)
-
-Intro: F Am G
-
+(F Am G)
              F
 My heart was captured
             Am
@@ -19,7 +17,6 @@ I got this crazy joy creeping up in me
   Wo- o - oah,   Let's wake the city up
   F - G - C
   Wo- o - oah
-     
              F
     When the crowds go home
             Am
@@ -33,8 +30,7 @@ I got this crazy joy creeping up in me
                 G
     Whenever we praise
                            C        (F, G, Am)
-    We sing with voices of freedom
-    We sing with voices of freedom
+    We sing with voices of freedom  x2
 
             F
 You give me purpose
@@ -55,8 +51,6 @@ To shine a light now for all to see
   Whatever the moment
         G
   We'll sing
-               F  G  Am
-  Whatever the calling
-               G (Fade)
-  Whatever the moment
+               F  G  Am                G (Fade)
+  Whatever the calling    Whatever the moment
   We'll sing with voices of freedom
