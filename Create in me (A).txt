@@ -1,15 +1,15 @@
-CREATE IN ME (A) - A bit high
+CREATE IN ME (A) - Album key (high)
 
-		D      A    E            F#m
+		  D      A    E            F#m
 	Cre-ate in me a clean, clean heart
-		D      A    E       F#m
+		  D      A    E       F#m
 	Cre-ate in me a work of art
-		D      A    E    F#m
+		  D      A    E    F#m
 	Cre-ate in me a mira-cle
-	D         A               F#m    E    A
-	Something real, something beau - ti - ful
+	D         A               E      A
+	Something real, something beauti-ful
 
-	[Repeat many times]
+	x3 [Soft, Mandolin, Drums]
 	
 D          A                E
 You're not finished with me yet
@@ -20,5 +20,13 @@ By Your power I can change, I can change
        D          E                A
 'Cause You're not finished with me yet
 
-[Repeat many times]
-[Chorus]
+  x2
+
+Instrumental x2 (D A E F#m, D A E, D A E F#m, D E A)
+
+Create in me x1 (Soft first bar)
+
+Instrumental x1
+
+You're not finished with me x1
+
