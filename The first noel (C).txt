@@ -9,10 +9,10 @@ In fields where they lay keeping their sheep,
      C             G          F      C
 On a cold winter's night that was so deep.
 
-	C     Em    F     C
-	Noel, Noel, Noel, Noel,
-	Am          Em      F     C    F    C
-	Born is the King of Is-ra-el.
+  C     Em    F     C
+  Noel, Noel, Noel, Noel,
+  Am          Em      F     C    F    C
+  Born is the King of Is-ra-el.
 
      C       G      F     C
 They look-ed up and saw a star
@@ -23,14 +23,15 @@ And to the earth it gave great light
     C         G           F       C
 And so it con-tinued both day and night
 
-  And by the light of that same star
-  Three Wise Men came from country far
-  To seek for a king was their intent
-  And to follow the star wherever it went
+  And by the light of that same star        C  G   F  C
+  Three Wise Men came from country far      C  G   F  C
+  To seek for a king was their intent       C  Em  F  C
+  And to follow the star wherever it went   C  G   F  C
 
 This star drew nigh to the northwest
 O'er Bethlehem it took its rest
 And there it did both stop and stay
+      C!   .   .     .     F     C         
 Right over the place where Jesus lay
 
        C       G        Am       Em
@@ -42,7 +43,7 @@ Right over the place where Jesus lay
         F        C         F       C
   their gold and myrrh and frankin-cense
 
-	C     Em    F     C
-	Noel, Noel, Noel, Noel,
-	Am          Em      F     C    F    C
-	Born is the King of Is-ra-el.
+    C     Em    F     C
+    Noel, Noel, Noel, Noel,
+    Am          Em      F     C   
+    Born is the King of Is-ra-el.
